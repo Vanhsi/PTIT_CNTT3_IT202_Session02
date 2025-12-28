@@ -1,6 +1,5 @@
-CREATE DATABASE QuanLyMonHoc;
 
-USE QuanLyMonHoc;
+USE QuanLyTruongHoc;
 
 CREATE TABLE Student (
     StudentID INT NOT NULL,             -- Mã SV

@@ -1,4 +1,4 @@
-USE QuanLyMonHoc;
+USE QuanLyTruongHoc;
 
 CREATE TABLE Score (
     StudentID INT NOT NULL,

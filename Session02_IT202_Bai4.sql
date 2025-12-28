@@ -1,4 +1,4 @@
-USE QuanLyMonHoc;
+USE QuanLyTruongHoc;
 
 CREATE TABLE Teacher (
     TeacherID INT NOT NULL,             -- Mã giảng viên

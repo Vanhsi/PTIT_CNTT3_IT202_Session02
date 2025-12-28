@@ -1,4 +1,4 @@
-USE QuanLyMonHoc;
+USE QuanLyTruongHoc;
 
 CREATE TABLE Enrollment (
     StudentID INT NOT NULL,             -- Lấy từ bảng Student
